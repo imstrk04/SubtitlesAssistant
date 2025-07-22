@@ -1,0 +1,6 @@
+test_simple.py
+debug_script.py
+dummy.py
+.env
+__pycache__/
+*.pyc

@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "total_speakers": 2,
+    "total_segments": 34,
+    "total_duration": 82.24,
+    "model_used": "whisper-128",
+    "device_used": "cpu",
+    "source_url": "https://youtu.be/zYJKq17GpEc?si=0apoU-vLWrmJfFox",
+    "source_file": null,
+    "audio_info": {
+      "duration": 82.752,
+      "sample_rate": 16000,
+      "channels": 1,
+      "samples": 1324032
+    },
+    "processing_time": 208.02748084068298,
+    "quality_score": 7.920964879678212
+  },
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.24,
+      "speaker": "SPEAKER_01",
+      "text": "Can I ask a question? Of course you can.",
+      "confidence": 0.9494527710808648,
+      "word_count": 9
+    },
+    {
+      "start": 2.24,
+      "end": 4.256,
+      "speaker": "SPEAKER_02",
+      "text": "Can",
+      "confidence": 0.9591037034988403,
+      "word_count": 1
+    },
+    {
+      "start": 4.256,
+      "end": 6.272,
+      "speaker": "SPEAKER_01",
+      "text": "you get me out of this place?",
+      "confidence": 0.9899998818125043,
+      "word_count": 7
+    },
+    {
+      "start": 6.272,
+      "end": 8.288,
+      "speaker": "SPEAKER_02",
+      "text": "I'm afraid I'm of no use to you there. Why",
+      "confidence": 0.979295191168785,
+      "word_count": 10
+    },
+    {
+      "start": 8.288,
+      "end": 10.304,
+      "speaker": "SPEAKER_01",
+      "text": "couldn't they put me in a proper prison?",
+      "confidence": 0.9805853441357613,
+      "word_count": 8
+    },
+    {
+      "start": 10.304,
+      "end": 12.928,
+      "speaker": "SPEAKER_02",
+      "text": "A better facility wasn't available. Put me in a madhouse?",
+      "confidence": 0.8912425577640534,
+      "word_count": 10
+    },
+    {
+      "start": 12.928,
+      "end": 14.944,
+      "speaker": "SPEAKER_01",
+      "text": "It's secure training centre. Training?",
+      "confidence": 0.9858931779861451,
+      "word_count": 5
+    },
+    {
+      "start": 14.944,
+      "end": 17.184,
+      "speaker": "SPEAKER_02",
+      "text": "What are they training us",
+      "confidence": 0.9466231822967529,
+      "word_count": 5
+    },
+    {
+      "start": 17.184,
+      "end": 19.904,
+      "speaker": "SPEAKER_01",
+      "text": "for? The other boys are screaming all the time. I had been",
+      "confidence": 0.9386008431514105,
+      "word_count": 12
+    },
+    {
+      "start": 19.904,
+      "end": 21.984,
+      "speaker": "SPEAKER_02",
+      "text": "explained to And the rock backwards and forwards and the shower at current",
+      "confidence": 0.6991072102234914,
+      "word_count": 13
+    },
+    {
+      "start": 21.984,
+      "end": 24.224,
+      "speaker": "SPEAKER_01",
+      "text": "age is free. Young institutions have got 15",
+      "confidence": 0.6380643714219332,
+      "word_count": 8
+    },
+    {
+      "start": 24.224,
+      "end": 26.848,
+      "speaker": "SPEAKER_02",
+      "text": "up. One kid goes nuts every time you see Steve McDonald.",
+      "confidence": 0.894103386185386,
+      "word_count": 11
+    },
+    {
+      "start": 26.848,
+      "end": 30.464,
+      "speaker": "SPEAKER_01",
+      "text": "It's mad in here, you don't understand. This was the best place for you to Ryan gets to",
+      "confidence": 0.8534002155065536,
+      "word_count": 18
+    },
+    {
+      "start": 30.464,
+      "end": 32.672,
+      "speaker": "SPEAKER_02",
+      "text": "stay at home until his trial. Ryan isn't accused of",
+      "confidence": 0.9771621108055115,
+      "word_count": 10
+    },
+    {
+      "start": 32.672,
+      "end": 34.688,
+      "speaker": "SPEAKER_01",
+      "text": "such a serious crime. Accused?",
+      "confidence": 0.9829868793487548,
+      "word_count": 5
+    },
+    {
+      "start": 34.688,
+      "end": 36.992,
+      "speaker": "SPEAKER_02",
+      "text": "It's all accused. If I did it,",
+      "confidence": 0.9984610974788666,
+      "word_count": 7
+    },
+    {
+      "start": 36.992,
+      "end": 39.168,
+      "speaker": "SPEAKER_01",
+      "text": "if I hurt her, then I get it, but I didn't,",
+      "confidence": 0.9556869430975481,
+      "word_count": 11
+    },
+    {
+      "start": 39.168,
+      "end": 42.784,
+      "speaker": "SPEAKER_02",
+      "text": "so... I it, Jamie, and this wasn't my decision. This was the best place for you to",
+      "confidence": 0.9578579068183899,
+      "word_count": 17
+    },
+    {
+      "start": 42.784,
+      "end": 46.816,
+      "speaker": "SPEAKER_01",
+      "text": "be. Nothing has been decided yet. Do know where it's going to be? London or somewhere local? You",
+      "confidence": 0.9290438890457153,
+      "word_count": 18
+    },
+    {
+      "start": 46.816,
+      "end": 48.832,
+      "speaker": "SPEAKER_02",
+      "text": "need to sit down, Jamie.",
+      "confidence": 0.9865042567253113,
+      "word_count": 5
+    },
+    {
+      "start": 48.832,
+      "end": 51.104,
+      "speaker": "SPEAKER_01",
+      "text": "If you don't sit down... Does that mean you don't know",
+      "confidence": 0.9789043394002047,
+      "word_count": 11
+    },
+    {
+      "start": 51.104,
+      "end": 53.44,
+      "speaker": "SPEAKER_02",
+      "text": "what you just want to tell me? Nothing's been decided yet.",
+      "confidence": 0.9310532212257385,
+      "word_count": 11
+    },
+    {
+      "start": 53.44,
+      "end": 56.16,
+      "speaker": "SPEAKER_01",
+      "text": "You need to sit down. I don't want to sit down. If you don't",
+      "confidence": 0.9991217489753451,
+      "word_count": 14
+    },
+    {
+      "start": 56.16,
+      "end": 58.72,
+      "speaker": "SPEAKER_02",
+      "text": "sit down, I have to stop this discussion. Maybe I want you to. Do",
+      "confidence": 0.9522117525339127,
+      "word_count": 14
+    },
+    {
+      "start": 58.72,
+      "end": 60.896,
+      "speaker": "SPEAKER_01",
+      "text": "you? It'd piss you off, that, wouldn't it?",
+      "confidence": 0.9251024723052979,
+      "word_count": 8
+    },
+    {
+      "start": 60.896,
+      "end": 62.912,
+      "speaker": "SPEAKER_02",
+      "text": "You'd have to go home and then come back again.",
+      "confidence": 0.9577726274728775,
+      "word_count": 10
+    },
+    {
+      "start": 62.912,
+      "end": 66.56,
+      "speaker": "SPEAKER_01",
+      "text": "Jamie, if you do not sit... Look how fucking what I sit down!",
+      "confidence": 0.8046624167607381,
+      "word_count": 13
+    },
+    {
+      "start": 66.56,
+      "end": 69.536,
+      "speaker": "SPEAKER_02",
+      "text": "You do not tell me when to sit down!",
+      "confidence": 0.9374484949641757,
+      "word_count": 9
+    },
+    {
+      "start": 69.536,
+      "end": 71.872,
+      "speaker": "SPEAKER_01",
+      "text": "You do not control what I",
+      "confidence": 0.9903282821178436,
+      "word_count": 6
+    },
+    {
+      "start": 71.872,
+      "end": 73.888,
+      "speaker": "SPEAKER_02",
+      "text": "fucking... Look at me now!",
+      "confidence": 0.9732637465000152,
+      "word_count": 5
+    },
+    {
+      "start": 73.888,
+      "end": 75.904,
+      "speaker": "SPEAKER_01",
+      "text": "You do not",
+      "confidence": 0.9972293774286906,
+      "word_count": 3
+    },
+    {
+      "start": 75.904,
+      "end": 77.92,
+      "speaker": "SPEAKER_02",
+      "text": "control what I do in my life! Get",
+      "confidence": 0.9622456580400467,
+      "word_count": 8
+    },
+    {
+      "start": 77.92,
+      "end": 79.936,
+      "speaker": "SPEAKER_01",
+      "text": "that in that fucking little head of yours!",
+      "confidence": 0.8585221767425537,
+      "word_count": 8
+    },
+    {
+      "start": 79.936,
+      "end": 82.24,
+      "speaker": "SPEAKER_02",
+      "text": "Fucking hell!",
+      "confidence": 0.9938803315162659,
+      "word_count": 2
+    }
+  ],
+  "statistics": {
+    "total_segments": 34,
+    "total_duration": 82.24,
+    "speakers": [
+      "SPEAKER_02",
+      "SPEAKER_01"
+    ],
+    "average_confidence": 0.9339682813393027
+  }
+}
